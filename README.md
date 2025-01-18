@@ -2,7 +2,7 @@
 <h3 align="center">Studying M.Tech in Artificial Intelligence & Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansaha26&label=Profile%20views&color=0e75b6&style=flat" alt="rohansaha.me" /> </p>
-- 📫 How to reach me **rohansaha.me+social@gmail.com**
+- 📫 How to reach me **rohansaha.me+connect@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
