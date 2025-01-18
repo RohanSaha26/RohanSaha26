@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rohan Saha</h1>
-<h3 align="center">Studying MSc. in Computer Science</h3>
+<h3 align="center">Studying M.Tech in Artificial Intelligence & Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansaha26&label=Profile%20views&color=0e75b6&style=flat" alt="rohansaha26" /> </p>
-- 📫 How to reach me **rohan.26@icloud.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansaha26&label=Profile%20views&color=0e75b6&style=flat" alt="rohansaha.me" /> </p>
+- 📫 How to reach me **rohansaha.me+social@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rohs26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohs26" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohansaha26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohansaha26" height="30" width="40" /></a>
-<a href="https://instagram.com/_rohan.26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rohan.26" height="30" width="40" /></a>
+<a href="https://twitter.com/rohansahaMe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohs26" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohansaha.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohansaha-me" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
